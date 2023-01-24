@@ -6,7 +6,7 @@ I am a student Game Developer working towards my assosicates at :black_large_squ
 I enjoy coding, World building, Dnd, and Warhammer 40k (both painting and playing). 
 In between my school projects I have a number of side projects, including an FPS, Horror game, and a space combat simulator. As I get time I try to continue these, though when school is in session my chances to do so are much lower :pensive:
 
-I when I remeber I like to try to post my games/demos onto my [Itch account](https://i-need-a-usrn.itch.io). So far everything on my Itch is free, and playable in browser. However due to server constraints, I may have to start posting Windows/Mac specific builds rather than Browser Playables.
+I when I remember I like to try to post my games/demos onto my [Itch account](https://i-need-a-usrn.itch.io). So far everything on my Itch is free, and playable in browser. However due to server constraints, I may have to start posting Windows/Mac specific builds rather than Browser Playables.
 
 Naturally once I manage to make a full game that I am happy with, I hope to start to make a profit off of it. 
 
